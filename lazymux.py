@@ -23,7 +23,7 @@ def main():
 		print "\n    [01] Nmap"
 		print "    [02] Red Hawk"
 		print "    [03] D-Tect"
-		print "    [04] sqlmap"
+		print "    [04] Sqlmap"
 		print "    [05] Infoga"
 		print "    [06] ReconDog"
 		print "    [07] AndroZenmap"
